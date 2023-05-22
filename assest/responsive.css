@@ -1,0 +1,405 @@
+@media screen and (max-width:1440px) {
+    .dropbtnn {
+        padding: 10px 14px;
+        font-size: 11px;
+        margin-right: -1rem;
+    }
+    .navbar-brand1{
+        display: none !important;
+    }
+    .form-control {
+        font-size: 10px;
+        margin-left: 10px;
+        margin-right: 0rem;
+    }
+
+    .dropbtnn i {
+        font-size: 15px;
+        margin-left: 0.5rem;
+    }
+
+    .mid-sectionn {
+        padding: 0px;
+    }
+
+    .down-drop{
+        margin-right: 0rem;
+    }
+    
+    .navbar-nav h6{
+        top: 9px;
+    }
+}
+
+
+@media screen and (max-width:1024px) {
+    .left-k a {
+        margin-left: 0rem;
+    }
+    .navbar-center{
+        display: none !important;
+    }
+    .t-d-none{
+        display: none;
+    }
+    .right-k ul {
+        margin-right: 0rem;
+        padding-left: 0rem;
+    }
+    .last-foot-cont img {
+        display: none;
+    }
+    .weekend-discount{
+        top: 13%;
+    }
+    .weekend-discount h3, h1, p{
+        margin-bottom: 2px !important;
+    }
+    .privacy button{
+        padding: 3px 20px;
+    }
+    .about-box p{
+        font-size: 11px;
+    }
+    .about-box h5{
+        font-size: 15px;
+    }
+    .photoshop-content h6{
+        margin-bottom: 7px;
+        font-size: 13px;
+    }
+    .photoshop-content #white-heading{
+        margin-bottom: 7px;
+        font-size: 13px;
+    }
+    .photoshop-content h5{
+        margin-bottom: 0px;
+        font-size: 16px;
+    }
+    .photoshop-content p span{
+        font-size: 16px;
+    }
+    .paytm-section p{
+        font-size: 10px;
+    }
+    .best-saller-box .saller-contant h6{
+        font-size: 13px;
+    }
+    .prating-box i{
+        font-size: 13px;
+    }
+    .best-saller-box .saller-contant span{
+        font-size: 12px;
+    }
+    .categories-contant h3{
+        padding-bottom: 10px;
+        font-size: 16px;
+    }
+    .categories-contant ul li a{
+        font-size: 14px;
+    }
+    .categories-contant .all{
+        font-size: 14px;
+        margin-top: 20px !important;
+    }
+    .footer-link-top p{
+        font-size: 13px;
+    }
+    .footer-link p{
+        font-size: 13px;
+    }
+    .footer-newslatter p{
+        font-size: 13px;
+        font-weight: 550;
+    }
+    .footer-newslatter .submit{
+        top: 2px;
+    }
+}
+
+@media screen and (max-width:991px) {
+    .chupa-cont{
+        display: block;
+    }
+    .bef-service-cont{
+        margin-bottom: 20px;
+    }
+}
+
+@media screen and (max-width:768px) {
+    .navbar-brand i::before{
+        display: none !important;
+        content: ""!important;
+    }
+    .navbar-brand i{
+        display: none;
+        margin: 0px !important;
+    }
+    .navbar-toggler{
+        margin: 5px 0px;
+    }
+    .hide{
+        display: none;
+    }
+    .site-icon-main , .site-icon-main-right{
+        display: none;
+    }
+    .navbar-brand1{
+        display: none;
+    }
+    .categories-box-btn .cat-btn{
+        display: block;
+    }
+    .content-home{
+        margin-left: 1rem;
+    }
+    .content-home h3{
+        font-size: 10px;
+    }
+    .content-home h1{
+        font-size: 20px;
+    }
+    .overflow{
+        margin-bottom:20px ;
+    }
+    .bef-service-cont{
+        display: flex;
+        justify-content: center;
+    }
+    .weekend-discount h2{
+        font-size: 12px;
+    }
+    .weekend-discount h1{
+        font-size: 30px;
+    }
+    .weekend-discount h3, h1, p{
+        font-size: 20px;
+    }
+    .weekend-discount p span{
+        font-size: 18px;
+    }
+    .weekend-discount .btn{
+        font-size: 13px;
+        padding: 5px 20px;
+    }
+    .photoshop-img{
+        margin: 10px 0px;
+    }
+    .more-items-section .item-box .item-contant{
+        padding-left: 0px;
+    }
+    .more-items-section .item-box .item-contant p{
+        font-size: 14px;
+    }
+    .product-section h5{
+        margin: 10px;
+    }
+    .paytm-section p{
+        font-size: 7px;
+    }
+    .best-saller-box1{
+        padding: 32px !important;
+    }
+    .best-saller-box2{
+        padding: 31px !important;
+    }
+    .categories-box p{
+        font-size: 16px;
+        padding-bottom: 10px;
+    }
+    .categories-img img{
+        padding-top: 0px;
+    }
+    .letest-news-box p{
+        font-size: 10px;
+    }
+    .letest-news-box h6{
+        font-size: 15px;
+    }
+    .letest-news-box span{
+        font-size: 12px;
+    }
+    .form{
+        margin-bottom: 20px;
+    }
+    .footer-newslatter .submit{
+        top: 0px !important;
+        border-top-left-radius: 0px;
+        border-top-right-radius: 3px;
+        border-bottom-left-radius: 0px;
+        border-bottom-right-radius: 3px;
+    }
+}
+
+
+    
+@media screen and (max-width:425px) {
+    .navbar-brand i::before{
+        display: none !important;
+        content: ""!important;
+    }
+    .navbar-brand i{
+        display: none;
+        margin: 0px !important;
+    }
+    .categories-main-img{
+        margin: 14px 0px;
+    }
+    .privacy button{
+        padding: 1px 10px;
+        font-size: 10px;
+    }
+    .privacy p{
+        font-size: 10px;
+    }
+    .site-icon-main, .site-icon-main-right{
+        display: none;
+    }
+    .weekend-discount h1, .weekend-discount h3{
+        font-size: 16px !important;
+    }
+    .weekend-discount p , .weekend-discount p{
+        display: none;
+    }
+    .weekend-discount .btn{
+        padding: 2px 10px;
+        font-size: 8px;
+    }
+    .more-items-section{
+        padding: 20px 0px !important;
+    }
+    .populer-box, .categories-img img{
+        margin-top: 10px;
+    }
+    .categories-img img{
+        width: 70%;
+    }
+    .counetr-box{
+        display: none;
+    }
+    .categories-box h6, .categories-box span{
+        font-size: 14px;
+    }
+    .categories-box p{
+        font-size: 15px;
+    }
+    .footer-newslatter, .footer-link-top, .footer-link , .accoutant-link{
+        margin: 25px 5px;
+    }
+    .footer-contact-info{
+        margin: 25px 0px;
+    }
+    .paddingbtm{
+        padding: 10px 25px !important;
+    }
+    .weekend-discount{
+        top: 9%;
+    }
+    .weekend-discount h2{
+        font-size: 8px !important;
+    }
+}
+@media screen and (max-width:375px) {
+    .button{
+        padding: 0.2em 1em;
+    }
+    .content-home h1{
+        font-size: 13px;
+    }
+}
+
+
+
+@media screen and (max-width: 1024px) {
+    .down-drop a{
+        font-size: 14px;
+    }
+    .dropbtnn i{
+        font-size: 14px;
+        margin-left: 0px;
+    }
+    .navbar-brand1{
+        margin-right: 1px;
+        display: none;
+    }
+    .weekend-discount h1{
+        font-size: 25px;
+        font-weight: 550;
+    }
+    .weekend-discount h2{
+        padding: 4px 10px;
+        font-size: 11px;
+        font-weight: 500;
+    }
+    .photoshop-content h4{
+        font-size: 16px;
+    }
+    .photoshop-content h5{
+        font-size: 14px;
+    }
+    .owl-dots{
+        display: none;
+    }
+    .more-items-section .item-box .item-contant h6{
+        font-size: 14px;
+    }
+    .more-items-section .item-box .item-contant p{
+        font-size: 13px;
+    }
+    .product-section h5{
+        margin: 13px;
+        font-size: 20px;
+        font-weight: 500;
+    }
+    .best-saller-box1{
+        padding: 12px;
+    }
+    .best-saller-box2{
+        padding: 11px;
+    }
+    .categories-box{
+        padding: 20px 14px;
+    }
+    .letest-news-box .btn, p{
+        font-size: 13px;
+    }
+    .categories-box-btn .cat-btn{
+        display: block;
+    }
+    
+}
+
+@media only screen and (max-width: 375px){
+    .navbar-brand i::before{
+        display: none !important;
+        content: ""!important;
+    }
+    .navbar-brand i{
+        display: none;
+        margin: 0px !important;
+    }
+    .weekend-discount h2{
+        display: none;
+    }
+    .weekend-discount .btn{
+        margin-top: 6px;
+    }
+    .navbar-toggler{
+        margin: 4px 0px;
+    }
+    .column {
+        flex-direction: column;
+    }
+    .privacy p{
+        font-size: 8px;
+    }
+    .product-section h5{
+        margin-top: 0px;
+        margin-left: 0px;
+    }
+}
+@media only screen and (max-width: 2560px){
+    .navbar-brand1{
+        display: none;
+    }
+}
